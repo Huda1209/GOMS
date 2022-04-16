@@ -41,7 +41,7 @@
                             <a class="nav-link" href="signup.jsp">Sign Up</a>
                         </li>
                         <li class="nav-item pl-1">
-                            <a class="nav-link" href="loginPage.jsp">Log In</a>
+                            <a class="nav-link" href="loginPage.jsp">Sign In</a>
                         </li>
                     </ul>
                 </div>
@@ -52,7 +52,7 @@
             <div class="container px-4 px-lg-5 h-100">
                 <div class="row gx-4 gx-lg-5 h-100 align-items-center justify-content-center text-center">
                     <div class="col-lg-8 align-self-end">
-                        <h1 class="text-white font-weight-bold">Level Up Fitness Express for github, Kuala Terengganu</h1>
+                        <h1 class="text-white font-weight-bold">Level Up Fitness Express, Kuala Terengganu</h1>
                         <hr class="divider" />
                     </div>
                     <div class="col-lg-8 align-self-baseline">
