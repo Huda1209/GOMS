@@ -91,7 +91,7 @@ public final class index_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("            <div class=\"container px-4 px-lg-5 h-100\">\n");
       out.write("                <div class=\"row gx-4 gx-lg-5 h-100 align-items-center justify-content-center text-center\">\n");
       out.write("                    <div class=\"col-lg-8 align-self-end\">\n");
-      out.write("                        <h1 class=\"text-white font-weight-bold\">Level Up Fitness Express, Kuala Terengganu</h1>\n");
+      out.write("                        <h1 class=\"text-white font-weight-bold\">Level Up Fitness Express for github, Kuala Terengganu</h1>\n");
       out.write("                        <hr class=\"divider\" />\n");
       out.write("                    </div>\n");
       out.write("                    <div class=\"col-lg-8 align-self-baseline\">\n");
