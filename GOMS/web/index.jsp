@@ -41,7 +41,7 @@
                             <a class="nav-link" href="signup.jsp">Sign Up</a>
                         </li>
                         <li class="nav-item pl-1">
-                            <a class="nav-link" href="loginPage.jsp">Sign In</a>
+                            <a class="nav-link" href="loginPage.jsp">Log In</a>
                         </li>
                     </ul>
                 </div>
